@@ -2,9 +2,22 @@
 
 div {
     color:white;
-    background-color: black;
+    background-color: red; font-size: 32px; text-align: center; font-weight: bold;
 }
 
-p {
-    color: red;
+.odd {
+    background-color: red; font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two {
+color: blue; font-size: 36px; background-color: white;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#four {
+    background-color: hsl(120, 100%, 75%);
+    font-weight: bold;
 }
